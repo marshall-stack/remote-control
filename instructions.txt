@@ -1,0 +1,3 @@
+1. Download ADUINO IDE
+2. install ESP32 BOARD MANAGER
+3. connect the DEV BOARD to your computer using USB, select the right port.
